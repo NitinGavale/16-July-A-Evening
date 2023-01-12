@@ -11,6 +11,12 @@ import neostoxUtility.Utility;
 
 
 public class NeostoxPasswordPage {
+	
+	
+	
+	
+	
+	
 	   
                @FindBy(id="txt_accesspin") private WebElement password;
 	       @FindBy(id="lnk_submitaccesspin") private WebElement submit;
